@@ -1,0 +1,21 @@
+.btn-blue {
+	background-color: white;
+	padding: 12px 18px;
+	border-radius: 5px;
+	color: #7A3E65;
+	font-weight: bold;
+	font-family: 'Arial', sans-serif;
+	font-size: 15px;
+}
+
+.btn-pink {
+	background-color: white;
+	text-align: center;
+	padding-right: 100px;
+	padding: 12px 18px;
+	border-radius: 5px;
+	color: #7A3E65;
+	font-weight: bold;
+	font-family: 'Arial', sans-serif;
+	font-size: 15px;
+}
